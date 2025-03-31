@@ -6,7 +6,7 @@ const sutractBtn=document.querySelector("#sutract-button")
 const addBtn=document.querySelector("#add-button")
 const decimalBtn=document.querySelector("#decimal-button")
 const equalBtn=document.querySelector("#equal-button")
-
+ 
 const numberBtn=document.querySelectorAll(".number")
 const resultElement=document.getElementById("result")
 

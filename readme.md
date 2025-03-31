@@ -2,6 +2,9 @@
 
 A simple and responsive calculator application built using JavaScript. This app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+# 🌐 Live Demo
+You can also view the live version of the calculator app here: Live Demo 🚀
+
 ## Screenshots
 
 ![Calculator Screenshot](images/Screenshot.png)

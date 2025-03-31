@@ -42,6 +42,7 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
     padding: 15px;
+    overflow: auto;
     border: none;
     border-radius: 10px;
     background: rgba(255, 255, 255, 0.1);
